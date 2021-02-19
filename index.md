@@ -1,11 +1,5 @@
 ## Welcome to GitHub Pages
 
-<style>
-    h1{
-      background-color:blue;
-    }
- </style>
-<h1>Hello</h1>
 
 You can use the [editor on GitHub](https://github.com/AA-PersonalProjects/TicTacToe/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
